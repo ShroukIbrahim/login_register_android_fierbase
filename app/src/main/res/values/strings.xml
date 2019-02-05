@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login_register_firebase</string>
+    <string name="facebook">Login With Facebook</string>
+    <string name="twitter">Login With Twitter</string>
+    <string name="google">Login With Google</string>
+    <string name="e_mail">Login With Email</string>
+    <string name="Login">Login Activity</string>
+    <string name="Register">Register Activity</string>
+    <string name="E_lang">English</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="mobile_num">Mobile Number</string>
+    <string name="login">Login</string>
+    <string name="f_password">Forget Password</string>
+    <string name="go_register">No account yet? Create one</string>
+    <string name="register">Create Account</string>
+    <string name="or">Or Singup With</string>
+    <string name="go_login"> Already a member? Login</string>
+
+</resources>

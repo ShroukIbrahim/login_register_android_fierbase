@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_Email"
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100sp"
+        android:padding="12sp"
+        android:text="@string/e_mail"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#fff"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_google"
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="170sp"
+        android:background="@color/colorPrimaryDark"
+        android:padding="12sp"
+        android:text="@string/google"
+        android:textColor="#fff"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_facebook"
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="220sp"
+        android:background="@color/colorPrimaryDark"
+        android:padding="12sp"
+        android:text="@string/facebook"
+        android:textColor="#fff"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_twitter"
+        android:layout_width="280sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="140sp"
+        android:background="@color/colorPrimaryDark"
+        android:padding="12sp"
+        android:text="@string/twitter"
+        android:textColor="#fff"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    
+
+
+
+</RelativeLayout>

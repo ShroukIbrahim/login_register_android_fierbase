@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "37410070074",
+    "firebase_url": "https://loginregisterfirebase-22afb.firebaseio.com",
+    "project_id": "loginregisterfirebase-22afb",
+    "storage_bucket": "loginregisterfirebase-22afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37410070074:android:744a081c757894a7",
+        "android_client_info": {
+          "package_name": "moshrouk.android.example.com.login_register_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37410070074-utgj5e8krk8r7sp8ruqmt7cura2pme8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moshrouk.android.example.com.login_register_firebase",
+            "certificate_hash": "a8aee4a39c38017e1038d297565d32ee3e836aaa"
+          }
+        },
+        {
+          "client_id": "37410070074-qhf7h9tpmpe12j9dil9k9jlbtg9hpta7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKBUahkbZm_mOddb9I_sdq6qqxoNS_Z4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37410070074-qhf7h9tpmpe12j9dil9k9jlbtg9hpta7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
